@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Rocher';
+    src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+}
+
+@font-palette-values --Purples {
+    font-family: Rocher;
+    base-palette: 6;
+}
+
+.purples {
+    font-palette: --Purples;
+    font-family: 'Rocher';
+    text-align: center;
+    font-size: 50px;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Media Query pour une largeur d'écran inférieure à 400px */
+@media screen and (max-width: 600px) {
+    .purples {
+        font-size: 30px;
+        /* Ajustez la taille de police selon vos besoins */
+    }
+}

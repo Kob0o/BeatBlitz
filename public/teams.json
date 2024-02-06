@@ -1,0 +1,28 @@
+{
+    "teams": [
+        {
+            "name": "\u00c9quipe A",
+            "score": 0
+        },
+        {
+            "name": "\u00c9quipe B",
+            "score": 0
+        },
+        {
+            "name": "\u00c9quipe C",
+            "score": 0
+        },
+        {
+            "name": "\u00c9quipe D",
+            "score": 0
+        },
+        {
+            "name": "\u00c9quipe E",
+            "score": 0
+        },
+        {
+            "name": "\u00c9quipe F",
+            "score": 0
+        }
+    ]
+}

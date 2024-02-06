@@ -1,0 +1,34 @@
+{
+  "games": [
+    {
+      "id": "XXXXXX",
+      "maxPlayers": 6,
+      "isBuzzed" : false,
+      "teams": [
+        {
+          "name": "Team A",
+          "score": 0
+        },
+        {
+          "name": "Team B",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "XXXXXX",
+      "maxPlayers": 6,
+      "isBuzzed" : false,
+      "teams": [
+        {
+          "name": "Team A",
+          "score": 0
+        },
+        {
+          "name": "Team B",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
